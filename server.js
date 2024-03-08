@@ -1,3 +1,16 @@
+/********************************************************************************
+* WEB322 – Assignment 04
+*
+* I declare that this assignment is my own work in accordance with Seneca's
+* Academic Integrity Policy:
+*
+* https://www.senecacollege.ca/about/policies/academic-integrity-policy.html
+*
+* Name: Ario Nazemirad Student ID: 144647229 Date: March 8th, 2024
+*
+* Published URL: https://a4-web322.onrender.com
+*
+********************************************************************************/
 const express = require("express");
 const path = require("path");
 const app = express();
